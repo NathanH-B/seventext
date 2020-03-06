@@ -1,0 +1,17 @@
+.alltext{
+  padding-top: 30px;
+  width: 80%;
+  font-size:;
+  margin: auto;
+}
+@font-face {
+  font-family: BigCaslon;
+  src: url("./Big_Caslon/BigCaslonRegular.otf") format("opentype");      
+}
+body{
+	font-family:'BigCaslon';
+	font-size: 2em;
+};
+h1{
+
+};
